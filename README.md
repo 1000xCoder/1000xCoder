@@ -1,11 +1,15 @@
 # 1000xCoder
 
-Software Engineer building scalable backend, frontend, and mobile systems.
+Software engineer from India.
+Bio: Om Namah Shivaya.
 
-## Links
-- Portfolio: https://1000xcoder.github.io/portfolio
-- Live Code Collaboration: https://github.com/1000xCoder/live-code-collaboration
-- LeetCode: https://leetcode.com/1000xCoder
+## Public Repositories
+- [Interview-Preparation](https://github.com/1000xCoder/Interview-Preparation) - LeetCode solutions in interview format (116 stars)
+- [live-code-collaboration](https://github.com/1000xCoder/live-code-collaboration) - Live code collaboration app
+- [ReactiveKafka](https://github.com/1000xCoder/ReactiveKafka) - Reactive Kafka library in Spring Boot
+- [RelaxLauncher](https://github.com/1000xCoder/RelaxLauncher) - Minimal Android launcher for lower distraction
+- [key-keeper](https://github.com/1000xCoder/key-keeper) - Store private messages and secret keys
+- [tic-tac-toe](https://github.com/1000xCoder/tic-tac-toe) - Tic Tac Toe game
 
-## Stack
-Java, Kotlin, TypeScript, JavaScript, Python, SQL, Spring Boot, React, Node.js, Android, Docker, Kubernetes, AWS, PostgreSQL
+## Focus
+Java, Kotlin, JavaScript/TypeScript, Python, Spring Boot, Android.
