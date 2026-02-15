@@ -1,46 +1,14 @@
 # 1000xCoder
 
-Software Engineer focused on building fast, scalable systems across **backend**, **frontend**, and **mobile**.
+Software engineer from India.
 
----
+## Public Repositories
+- [Interview-Preparation](https://github.com/1000xCoder/Interview-Preparation) - LeetCode solutions in interview format (116 stars)
+- [live-code-collaboration](https://github.com/1000xCoder/live-code-collaboration) - Live code collaboration app
+- [ReactiveKafka](https://github.com/1000xCoder/ReactiveKafka) - Reactive Kafka library in Spring Boot
+- [RelaxLauncher](https://github.com/1000xCoder/RelaxLauncher) - Minimal Android launcher for lower distraction
+- [key-keeper](https://github.com/1000xCoder/key-keeper) - Store private messages and secret keys
+- [tic-tac-toe](https://github.com/1000xCoder/tic-tac-toe) - Tic Tac Toe game
 
-### What I do
-- Building **Live Code Collaboration** — real-time shared code editors  
-- Working with **Spring Boot, React, Node.js**  
-- Exploring **Android (Kotlin + Jetpack Compose)**
-
----
-
-### Featured
-- 🌐 **Portfolio** → https://1000xcoder.github.io/portfolio  
-- 🧠 **Live Code Collaboration** → https://github.com/1000xCoder/live-code-collaboration  
-- 🎮 **Tic Tac Toe** → https://github.com/1000xCoder/tic-tac-toe  
-
----
-
-### Tech Stack
-**Languages**  
-`Java` `Kotlin` `C` `TypeScript` `JavaScript` `Python` `SQL`
-
-**Web**  
-`React` `Next.js` `Angular` `Vue` `HTML` `CSS`
-
-**Mobile**  
-`Android` `Jetpack Compose`
-
-**Backend**  
-`Spring Boot` `Node.js` `Express` `Django`
-
-**Infra**  
-`Docker` `Kubernetes` `AWS` `Kafka` `Git`
-
-**Databases**  
-`PostgreSQL` `MySQL` `MongoDB` `Redis`
-
----
-
-### Competitive Programming  
-LeetCode → https://leetcode.com/1000xCoder
----
-
-Building things that scale, not just things that shine.
+## Focus
+Java, Kotlin, JavaScript/TypeScript, Python, Spring Boot, Android.
