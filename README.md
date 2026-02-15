@@ -1,7 +1,6 @@
 # 1000xCoder
 
 Software engineer from India.
-Bio: Om Namah Shivaya.
 
 ## Public Repositories
 - [Interview-Preparation](https://github.com/1000xCoder/Interview-Preparation) - LeetCode solutions in interview format (116 stars)
